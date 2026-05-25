@@ -1,0 +1,3 @@
+.pma-toolbar{display:flex;gap:8px;margin:12px 0}.drag{cursor:move}
+#pma-product-grid td[contenteditable="true"],#pma-variation-grid td[contenteditable="true"]{background:#fffbe6;cursor:text}
+#pma-product-grid td[contenteditable="true"]:focus,#pma-variation-grid td[contenteditable="true"]:focus{outline:2px solid #2271b1}
